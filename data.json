@@ -1,0 +1,94 @@
+{
+    "personal_information": {
+      "name": "İLKİN HƏSƏNZADƏ",
+      "title": "STUDENT",
+      "profile_picture": "photos/profile.jpg"
+    },
+    "contact": {
+      "phone": "+994 77-449-97-58",
+      "email": "ilkinhasanzade666@gmail.com",
+      "location": "Azerbaijan/Baku/"
+    },
+    "social_media": [
+      {
+        "platform": "Instagram",
+        "username": "hasanovvv__007",
+        "icon": "photos/instagram.png"
+      },
+      {
+        "platform": "TikTok",
+        "username": "hasanovvv__007",
+        "icon": "photos/tik-tok.png"
+      },
+      {
+        "platform": "GitHub",
+        "username": "ilkinhasanzade",
+        "icon": "photos/github.png"
+      }
+    ],
+    "education": [
+      {
+        "period": "2013 - 2019",
+        "institution": "83 № school"
+      },
+      {
+        "period": "2019 - 2024",
+        "institution": "Haydar Aliyev's named school"
+      },
+      {
+        "period": "2024 - 2025",
+        "institution": "AzTU - Information Security"
+      }
+    ],
+    "skills": [
+      "working in groups",
+      "Programming Languages",
+      "Simple knowladge about C++"
+    ],
+    "languages": [
+      "Azerbaijani(C1)",
+      "English(B2)",
+      "Turkish(B2)",
+      "Russian(C1)"
+    ],
+    "profile_summary": "A cybersecurity enthusiast with a creative twist — blending software development skills with experience in digital media, video editing, and storytelling. I enjoy exploring the intersection between technology and creativity, always looking for innovative ways to communicate complex concepts and contribute to secure, engaging digital experiences.",
+    "work_experience": [
+      {
+        "title": "Freelance Video Editor & Content Creator",
+        "description": "As a freelance video editor and digital content creator, I have collaborated with various clients including YouTubers, small businesses, and social media influencers. My work primarily involves editing short-form and long-form video content using Adobe Premiere Pro, After Effects, and DaVinci Resolve. I specialize in storytelling through visual editing, color correction, and sound design to create engaging content tailored to target audiences."
+      },
+      {
+        "title": "Junior Software Developer Intern",
+        "company": "CyberShield Solutions (implied)",
+        "description": "During my internship at CyberShield Solutions, a company focused on network security and threat mitigation tools, I worked closely with the cybersecurity team to develop a Python-based internal vulnerability scanning tool. I participated in daily stand-up meetings, collaborated in agile development cycles, and contributed to writing clean and efficient code."
+      }
+    ],
+    "reference": {
+      "name": "James (implied)",
+      "description": "James and I have worked on over 30 video projects together across various platforms. He can provide insight into my reliability, creative workflow, and ability to deliver high-quality work on time."
+    },
+    "certifications": [
+      {
+        "title": "Google Cybersecurity Professional Certificate",
+        "description": "This professional-level certification included training in networking, operating systems, system administration, incident response, and security tools. It also covered practical labs on identifying and mitigating cyber threats, using SIEM tools, and analyzing security logs."
+      },
+      {
+        "title": "Introduction to Ethical Hacking",
+        "description": "This certification course covered foundational topics in ethical hacking including reconnaissance, scanning, enumeration, and exploitation. Focused on hands-on application and ethical considerations in cybersecurity."
+      }
+    ],
+    "projects": [
+      {
+        "title": "SecureLogin: Multi-factor Authentication System",
+        "description": "Developed a C# application that implements multi-factor authentication using password and one-time code via email. Designed for small-scale enterprise login systems with a focus on security."
+      },
+      {
+        "title": "CyberAware: Phishing Simulation Tool",
+        "description": "Built a Python-based phishing simulation tool for educational use, allowing organizations to test employee awareness in a safe environment. Generated detailed reports for each test round."
+      },
+      {
+        "title": "MyCV Online Portfolio Website",
+        "description": "Created a fully responsive HTML/CSS-based online CV with editable sections and save functionality. Implemented a system to generate and store new versions dynamically under a shared CSS design."
+      }
+    ]
+  }
